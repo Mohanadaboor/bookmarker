@@ -1,0 +1,51 @@
+img {
+    height: 200px;
+    object-fit: contain;
+}
+
+.gadwal h2 {
+    font-family: PT Sans Caption;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.gadwal button {
+    background-color: #8A9E23;
+    color: white;
+    border: 1px transparent solid;
+    border-radius: 7px;
+}
+
+header {
+    font-family: Pacifico;
+    height: 10rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+h1 {
+    background-color: orange;
+    
+}
+
+hr.dotted {
+    border: 2px dotted red;
+}
+
+body {
+    background-color: #F7ECDE;
+}
+
+p.text-center {
+    font-family:PT Sans Caption ;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.mb-0 {
+    font-family: PT Sans Caption;
+    font-size: 16px;
+    font-weight: 700;
+}
